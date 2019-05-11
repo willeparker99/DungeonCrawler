@@ -1,0 +1,55 @@
+{
+    "PlayerName": "tama3million",
+    "Attack": 0,
+    "Defence": 0,
+    "Armour" : [
+        {   "Head"      : "none",
+            "Body"      : "none",
+            "Hands"     : "none",
+            "Legs"      : "none",
+            "Feet"      : "none",
+            "Ring1"     : "none",
+            "Ring2"     : "none",
+            "Necklace"  : "none"
+        }
+    ],
+    "EquippedWeapons" : [
+        {   "LeftHand"  : "none",
+            "RightHand" : "none"
+        }
+    ],
+    "Inventory" : [
+        {
+            "All" : [
+                {
+
+                }
+            ],
+            "Weapons" : [
+                {
+
+                }
+            ],
+            "Armour" : [
+                {
+
+                }
+            ],
+            "Jewellery" : [
+                {
+
+                }
+            ],
+            "Resources" : [
+                {
+
+                }
+            ],
+            "Misc" : [
+                {
+                    
+                }
+            ]
+        }
+    ]
+}
